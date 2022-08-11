@@ -5,8 +5,8 @@ body {
 }
 
 img {
-    width: 160px;
-    border-radius: 50%;
+  width: 160px;
+  border-radius: 50%;
 }
 
 h1,h2 {
@@ -17,11 +17,13 @@ h1,h2 {
 p {
   font-family: 'PT Sans', sans-serif;
   color: #6D8B74;
+  text-align: justify;
 }
 
 a {
   color: rgb(141, 141, 141);
   font-size: medium;
+  text-decoration: none;
 }
 
 a:hover {
